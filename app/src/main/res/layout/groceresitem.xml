@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="260dp"
+    android:layout_height="120dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/groceriescard"
+        android:layout_width="245dp"
+        android:layout_height="105dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        app:cardCornerRadius="15dp">
+
+        <ImageView
+            android:id="@+id/groceriesimg"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="18dp" />
+
+        <TextView
+            android:id="@+id/groceriesname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="125dp"
+            android:layout_marginTop="35dp"
+            android:textSize="20dp"
+            android:textFontWeight="600"
+            android:fontFamily="@font/gilroybold"
+            android:text="Name" />
+
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
