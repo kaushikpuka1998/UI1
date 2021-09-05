@@ -21,17 +21,17 @@
                 android:id="@+id/imageView"
                 android:layout_width="45dp"
                 android:layout_height="30dp"
-                app:srcCompat="@drawable/carrot"
-                tools:layout_editor_absoluteX="171dp"
-                tools:layout_editor_absoluteY="16dp"
-                android:layout_marginLeft="165dp"
+                android:layout_marginLeft="145dp"
                 android:layout_marginTop="65dp"
-                tools:ignore="MissingConstraints" />
+                app:srcCompat="@drawable/carrot"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="171dp"
+                tools:layout_editor_absoluteY="16dp" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="165dp"
+                android:layout_marginLeft="145dp"
                 android:layout_marginTop="98dp"
                 android:fontFamily="@font/montserratbold"
                 android:text="DEMO"
@@ -44,14 +44,14 @@
                 android:layout_marginTop="139dp">
 
                 <EditText
-                    android:layout_width="367dp"
+                    android:layout_width="345dp"
                     android:layout_height="52dp"
                     android:background="@drawable/edittext"
                     android:drawableLeft="@drawable/ic_search_24"
                     android:drawablePadding="15dp"
                     android:fontFamily="@font/gilroybold"
                     android:hint="Search Here"
-                    android:padding="10dp"
+                    android:padding="5dp"
                     android:singleLine="true" />
 
             </RelativeLayout>
@@ -88,7 +88,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="320dp"
+                    android:layout_marginLeft="270dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />
@@ -120,7 +120,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="320dp"
+                    android:layout_marginLeft="270dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />
@@ -152,7 +152,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="320dp"
+                    android:layout_marginLeft="270dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />

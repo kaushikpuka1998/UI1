@@ -6,7 +6,17 @@
         <entry key="app/src/main/res/drawable/card.xml" value="0.34371807967313583" />
         <entry key="app/src/main/res/drawable/greenbtn.xml" value="0.34371807967313583" />
         <entry key="app/src/main/res/drawable/ic_search_24.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_groceries.xml" value="0.22" />
+        <entry key="app/src/main/res/layout-anydpi/activity_groceries.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout-hdpi/activity_groceries.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout-ldpi/activity_groceries.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout-mdpi/activity_groceries.xml" value="1.0" />
+        <entry key="app/src/main/res/layout-normal/activity_groceries.xml" value="1.0" />
+        <entry key="app/src/main/res/layout-small/activity_main.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout-xhdpi/activity_groceries.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout-xhdpi/activity_main.xml" value="0.2935185185185185" />
+        <entry key="app/src/main/res/layout-xxhdpi/activity_groceries.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout-xxxhdpi/activity_groceries.xml" value="0.3302083333333333" />
+        <entry key="app/src/main/res/layout/activity_groceries.xml" value="1.3208333333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/exclusive_item.xml" value="0.3" />
         <entry key="app/src/main/res/layout/viewpageritem.xml" value="0.3" />
