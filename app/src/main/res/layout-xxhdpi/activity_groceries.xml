@@ -19,7 +19,7 @@
         android:id="@+id/passimage"
         android:layout_width="231sp"
         android:layout_height="211sp"
-        android:layout_marginLeft="90sp"
+        android:layout_marginLeft="60sp"
         android:layout_marginTop="80sp"
         android:src="@drawable/apple2" />
 
@@ -35,7 +35,7 @@
         android:id="@+id/share"
         android:layout_width="19sp"
         android:layout_height="19sp"
-        android:layout_marginLeft="350sp"
+        android:layout_marginLeft="320sp"
         android:layout_marginTop="45sp"
         android:background="@drawable/share" />
 
@@ -53,9 +53,9 @@
 
     <ImageButton
         android:id="@+id/favorite"
-        android:layout_width="30sp"
-        android:layout_height="30sp"
-        android:layout_marginLeft="350sp"
+        android:layout_width="19sp"
+        android:layout_height="19sp"
+        android:layout_marginLeft="320sp"
         android:layout_marginTop="325sp"
         android:background="@drawable/favourite" />
 
@@ -74,8 +74,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 
-        android:layout_marginLeft="80sp"
-        android:layout_marginTop="580sp"
+        android:layout_marginLeft="50sp"
+        android:layout_marginTop="480sp"
         android:layout_marginRight="5sp">
 
         <ImageButton

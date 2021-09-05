@@ -20,7 +20,7 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="145dp"
+                android:layout_marginLeft="175dp"
                 android:layout_marginTop="65dp">
 
                 <ImageView
@@ -45,7 +45,7 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="15dp"
+
                 android:layout_marginTop="139dp">
 
                 <EditText
@@ -92,7 +92,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="280dp"
+                    android:layout_marginLeft="320dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />
@@ -124,7 +124,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="270dp"
+                    android:layout_marginLeft="320dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />
@@ -156,7 +156,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="270dp"
+                    android:layout_marginLeft="320dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />

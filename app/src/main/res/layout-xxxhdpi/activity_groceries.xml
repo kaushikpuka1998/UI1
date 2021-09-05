@@ -17,9 +17,9 @@
 
     <ImageView
         android:id="@+id/passimage"
-        android:layout_width="260sp"
-        android:layout_height="220sp"
-        android:layout_marginLeft="60sp"
+        android:layout_width="230sp"
+        android:layout_height="230sp"
+        android:layout_marginLeft="90sp"
         android:layout_marginTop="60sp"
         android:src="@drawable/apple2" />
 
@@ -35,7 +35,7 @@
         android:id="@+id/share"
         android:layout_width="19sp"
         android:layout_height="19sp"
-        android:layout_marginLeft="350sp"
+        android:layout_marginLeft="370sp"
         android:layout_marginTop="45sp"
         android:background="@drawable/share" />
 
@@ -55,7 +55,7 @@
         android:id="@+id/favorite"
         android:layout_width="20sp"
         android:layout_height="20sp"
-        android:layout_marginLeft="350sp"
+        android:layout_marginLeft="370sp"
         android:layout_marginTop="325sp"
         android:background="@drawable/favourite" />
 
@@ -75,7 +75,7 @@
         android:layout_height="wrap_content"
 
         android:layout_marginLeft="95sp"
-        android:layout_marginTop="530sp"
+        android:layout_marginTop="540sp"
         android:layout_marginRight="5sp">
 
         <ImageButton

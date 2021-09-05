@@ -4,7 +4,8 @@
     values-sw480dp          5.4”  480x854 mdpi ,
     5.1”  480x800 mdpi
 
-    values-xxhdpi           5.5"  1080x1920 xxhdpi
+    values-xxhdpi           5.5"  1080x1920 xxhdpi ,
+    4.95" 1080x1920 xxhdpi
     values-xxxhdpi          5.5"  1440x2560 xxxhdpi
     values-xhdpi            4.7”   1280x720 xhdpi,
     4.65”  1280x720 xhdpi

@@ -9,18 +9,18 @@
     tools:context=".MainActivity">
 
     <ScrollView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
 
         <RelativeLayout
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
             <RelativeLayout
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="145dp"
+                android:layout_marginLeft="135dp"
                 android:layout_marginTop="65dp">
 
                 <ImageView
@@ -28,14 +28,14 @@
                     android:layout_width="45dp"
                     android:layout_height="30dp"
                     app:srcCompat="@drawable/carrot"
-                    tools:ignore="MissingConstraints"
                     tools:layout_editor_absoluteX="171dp"
-                    tools:layout_editor_absoluteY="16dp" />
+                    tools:layout_editor_absoluteY="16dp"
+                    tools:ignore="MissingConstraints" />
 
                 <TextView
+                    android:layout_marginTop="32dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="35dp"
                     android:fontFamily="@font/montserratbold"
                     android:text="DEMO"
                     android:textColor="@color/black" />
@@ -49,14 +49,14 @@
                 android:layout_marginTop="139dp">
 
                 <EditText
-                    android:layout_width="match_parent"
+                    android:layout_width="367dp"
                     android:layout_height="52dp"
                     android:background="@drawable/edittext"
                     android:drawableLeft="@drawable/ic_search_24"
                     android:drawablePadding="15dp"
                     android:fontFamily="@font/gilroybold"
                     android:hint="Search Here"
-                    android:padding="5dp"
+                    android:padding="10dp"
                     android:singleLine="true" />
 
             </RelativeLayout>
@@ -68,9 +68,10 @@
 
                 <androidx.recyclerview.widget.RecyclerView
                     android:id="@+id/imag"
-                    android:layout_width="match_parent"
+                    android:layout_width="400dp"
                     android:layout_height="190dp"
-
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
                     android:paddingTop="15dp" />
 
             </RelativeLayout>
@@ -87,12 +88,12 @@
                     android:fontFamily="@font/gilroybold"
                     android:text="Exclusive Offer"
                     android:textColor="@color/black"
-                    android:textSize="24dp" />
+                    android:textSize="22dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="280dp"
+                    android:layout_marginLeft="230dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />
@@ -119,22 +120,22 @@
                     android:fontFamily="@font/gilroybold"
                     android:text="Groceries"
                     android:textColor="@color/black"
-                    android:textSize="24dp" />
+                    android:textSize="22dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="270dp"
+                    android:layout_marginLeft="230dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />
 
                 <androidx.recyclerview.widget.RecyclerView
                     android:id="@+id/groceriesrecycle"
+                    android:paddingTop="15dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="30dp"
-                    android:paddingTop="15dp" />
+                    android:layout_marginTop="30dp" />
 
 
             </RelativeLayout>
@@ -151,12 +152,12 @@
                     android:fontFamily="@font/gilroybold"
                     android:text="Best Selling"
                     android:textColor="@color/black"
-                    android:textSize="24dp" />
+                    android:textSize="22dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="270dp"
+                    android:layout_marginLeft="230dp"
                     android:fontFamily="@font/gilroybold"
                     android:text="See All"
                     android:textColor="#53B175" />
