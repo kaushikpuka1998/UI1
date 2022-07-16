@@ -10,3 +10,8 @@
   <img src="https://user-images.githubusercontent.com/52675676/132118105-85e39e77-e1c4-4c09-ab8f-359c7387f411.png" width="200" height="400" />
 </p>
 
+
+* UI Implementation 
+* Page Connection with activity
+* Recyclerview Implementation
+* All Screen Adaptability like mdpi,hdpi,xhdpi,xxhdpi,xxxhdpi
